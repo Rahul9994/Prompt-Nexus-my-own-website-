@@ -32,7 +32,7 @@
 
 # 📸 Preview
 
-<img width="100%" src="[https://placehold.co/1200x700/0b1020/ffffff?text=pr0mptnexus+Preview](https://pr0mptnexus.liveblog365.com)">
+<img width="100%" src="https://pr0mptnexus.liveblog365.com">
 
 ---
 
