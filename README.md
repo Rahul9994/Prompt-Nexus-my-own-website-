@@ -152,7 +152,6 @@ inside your browser.
 
 Hosted using:
 
-- ProFreeHost
 - FTP Auto Sync
 - VS Code SFTP Extension
 
