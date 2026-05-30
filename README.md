@@ -11,7 +11,7 @@
 
 # 🚀 Live Website
 
-🌐 https://pr0mptnexus.livelog365.com
+🌐 https://pr0mptnexus.liveblog365.com
 
 ---
 
@@ -32,7 +32,7 @@
 
 # 📸 Preview
 
-<img width="100%" src="https://placehold.co/1200x700/0b1020/ffffff?text=pr0mptnexus+Preview">
+<img width="100%" src="[https://placehold.co/1200x700/0b1020/ffffff?text=pr0mptnexus+Preview](https://pr0mptnexus.liveblog365.com)">
 
 ---
 
